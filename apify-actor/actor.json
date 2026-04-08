@@ -1,0 +1,12 @@
+{
+  "actorSpecification": 1,
+  "name": "cyberab-marketplace-scraper",
+  "title": "CyberAB Marketplace Scraper",
+  "description": "Scrapes CyberAB marketplace profiles and auto-discovers data endpoints used by the marketplace frontend.",
+  "version": "0.1",
+  "buildTag": "latest",
+  "meta": {
+    "templateId": "project-empty"
+  },
+  "input": "./input_schema.json"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "source": "cyberab.org",
+    "sourceUrl": "https://cyberab.org/Member/C3PAO-154-Kratos-Technology-Training-Solutions",
+    "organizationName": "Kratos Technology & Training Solutions",
+    "roleCode": "C3PAO",
+    "cyberAbListingId": "154",
+    "description": "We prepared for CMMC and successfully passed our assessment, now let us help you. Kratos provides comprehensive C3PAO and RPO CMMC services to Defense Industrial Base partners.",
+    "contactEmails": [],
+    "contactPhones": [],
+    "externalWebsites": [],
+    "scrapedAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "source": "cyberab.org",
+    "sourceUrl": "https://cyberab.org/Member/C3PAO-33-Cherry-Bekaert",
+    "organizationName": "Cherry Bekaert",
+    "roleCode": "C3PAO",
+    "cyberAbListingId": "33",
+    "description": "IT compliance experts specializing in CMMC (C3PAO and RPO), SOC, HITRUST, ISO, PCI, and NIST.",
+    "contactEmails": [],
+    "contactPhones": [],
+    "externalWebsites": [],
+    "scrapedAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "source": "cyberab.org",
+    "sourceUrl": "https://cyberab.org/Member/C3PAO-315-Sysaudits",
+    "organizationName": "SysAudits",
+    "roleCode": "C3PAO",
+    "cyberAbListingId": "315",
+    "description": "SysAudits specializes in technology security audits and readiness assessments across government and commercial sectors.",
+    "contactEmails": [],
+    "contactPhones": [],
+    "externalWebsites": [],
+    "scrapedAt": "2026-04-08T00:00:00.000Z"
+  },
+  {
+    "source": "cyberab.org",
+    "sourceUrl": "https://cyberab.org/Member/RPO-1066-Cybersheath-Services-International-Llc",
+    "organizationName": "CyberSheath Services International, LLC.",
+    "roleCode": "RPO",
+    "cyberAbListingId": "1066",
+    "description": "CyberSheath supports DoD contractors with implementation support for cybersecurity and CMMC requirements.",
+    "contactEmails": [],
+    "contactPhones": [],
+    "externalWebsites": [],
+    "scrapedAt": "2026-04-08T00:00:00.000Z"
+  }
+]

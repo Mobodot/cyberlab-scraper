@@ -1,0 +1,40 @@
+{
+  "title": "CyberAB Marketplace Scraper Input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "startUrls": {
+      "title": "Start URLs",
+      "type": "array",
+      "description": "Catalog pages to start crawling from.",
+      "editor": "stringList",
+      "prefill": [
+        "https://cyberab.org/Catalog",
+        "https://cyberab.org/SCF-Ecosystem/SCF-Marketplace",
+        "https://cyberab.org/SCA-Ecosystem/SCA-Marketplace"
+      ]
+    },
+    "includeWaybackSeeds": {
+      "title": "Include Wayback URL seeds",
+      "type": "boolean",
+      "description": "Adds known /Member URLs from the Wayback CDX index so the crawl remains resilient to frontend changes.",
+      "default": true
+    },
+    "waybackSeedLimit": {
+      "title": "Wayback seed limit",
+      "type": "integer",
+      "description": "Maximum number of /Member URLs loaded from Wayback.",
+      "default": 2000,
+      "minimum": 100,
+      "maximum": 25000
+    },
+    "maxRequestsPerCrawl": {
+      "title": "Max requests per crawl",
+      "type": "integer",
+      "description": "Hard stop to contain blast radius and control runtime costs.",
+      "default": 5000,
+      "minimum": 100,
+      "maximum": 100000
+    }
+  }
+}
